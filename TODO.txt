@@ -2,3 +2,4 @@
 - Support for quoted strings.  Last I checked, this will be extremely difficult
   to do in Atom because there does not appear to be a way to extract a
   multi-line scope (scopes seem to be limited to a single line).
+- Many more tests are needed.
