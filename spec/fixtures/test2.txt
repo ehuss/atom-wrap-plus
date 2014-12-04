@@ -1,0 +1,92 @@
+Paragraphs
+==========
+amaze water terrarium boron whammy enchanting scented heavy-duty guileful midnight effectively banishment prognostication publicist vicarage jejune double date gill cold turkey energize complaisance
+
+cleave chops rat race stoic hi polloi schlock getaway darkroom cockerel misquote
+
+Separators
+==========
+water-repellent encode stereotype hangover adeptness stirring antagonism bulrush handpick public utility
+.................
+lend bedevilment submersion speedway harmonic European prodigious cabinet ill-timed rowdy succeed expectation
+###############
+phantom heinousness admiralty encore acoustically unasked dubious bituminous coal German measles self-restraint
+
+Lists
+=====
+
+halo fair intestine harmoniously muffler farcical llama cinematography dislike fixedly complimentary miscast playing card franchisee hardy stickup hydrate virginal object word processing parallax Polaris
+- besmirch spur pigment marinate absorbent segregationist Inuit paleface tallness sublimation lieutenant betroth numerate undercover non compos mentis ill-fated hoot franchisee schmaltzy sorry resolution
+* geneses gratitude printer voice mail dimwit sagacity force-fed plan reassert mindless putrefy nocturnal excrete weatherman similarly quarrelsome participate logistical motocross omega audio thereby headwaters
+# rareness thievery twerp wrinkle snowplow henpeck intoxicate SOP rhododendron guy divider deviation
+  cautiousness Mont. wee waxy mesh tenth donor stimulate muff azure compatible redundancy KP engraver thimble
+moment Fahrenheit fresh colloquial hatchway unbeatable medication terrapin cranky dimmer mutually press conference
+gift shaft burger sec. gardenia inorganic stony regimen wrongheaded faction sole firmness camouflage
+
+1. fan irresponsible
+   single-mindedly semitrailer oar regionally methodical sclerotic factually feta raincoat manipulative hangover unconfirmed poliomyelitis haven togs well-balanced homeopathy officiousness
+1.2. stressful meaningless sulkily single-handedly personality goods marauder now hysteria spiny believer English horn geriatric spine won't Japanese beetle selfishness seismographic chorus reliable lunacy
+a) wistfully hardhearted inattention injurious poss. sylph coupe root jingle golf dub delivery bleachers pervade habitat productiveness pediatrics verify unemployable unbelief pamphlet aground lima bean
+** slush fund inscrutably forevermore contextual sloppiness plug enter yuck cooperate stockbroker yardarm spaniel hockey rib pronounce disable desolation sludge inordinately worn-out prodigiously convalescent
+# sheaf hotcake biology right angle rouse weathercock providential foolhardy endanger pointy bric-a-brac adder expectant no-show eater trench MA emasculate pathological cloister YMCA myopic stonewall subjection
+## rehabilitate jay mistress flagship life buoy cheeseburger dispose run-down beaux drowse spatula sugary remunerative parse Ave. documentation kickoff goblin legibly child's play candidness itself flyspeck
+
+Long Lines
+==========
+
+1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+The following url should be really long (http://www.this.is.long.com/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing/foo/bar/thing#where-it-is).
+
+The following url isn't very long (http://www.this.is.long.com/foo/bar/thing#where-it-is).
+
+Various Indentation
+===================
+
+    stuffiness forbearance staircase clitoris bum assuage acceleration dolphin sonar billionth displacement
+    hundredth permeability obliging abyss eagle-eyed readily intensify trickster diva obtain handmade beachhead
+
+    herald Viking morgue ruddiness depressed founder metabolism well-advised legislature power quad bumbler gourmand chessboard paranoid innovation exasperation inconsequentially casuist blameless industrially
+trapdoor alley laburnum lisle continuation clomp coddle gunwale breakdown archaism punishable hull according to
+togs precipitation whatever gob hatefully top-heavy purple snot whack graphically preshrunk construct
+
+herald Viking morgue ruddiness depressed founder metabolism well-advised legislature power quad bumbler gourmand chessboard paranoid innovation exasperation inconsequentially casuist blameless industrially
+    trapdoor alley laburnum lisle continuation clomp coddle gunwale breakdown archaism punishable hull according to
+    togs precipitation whatever gob hatefully top-heavy purple snot whack graphically preshrunk construct
+droll syrupy continental drift panel certified check footsore molybdenum redound embezzlement houseplant
+
+northeast irate syphilitic haberdashery churlishly waterworks asparagus huntsman daydreamer cowpoke
+  mouse truthfully salary one-on-one dislike papa riven clambake sledge glossary forestry cone squalor
+    passivity unquestioning purchase bushman firth sicken zealot polygamy chisel pinch-hit opposition given name
+
+Email-Style Quotes
+==================
+    >> impulsively adaptability eyeball preside pushover gadgetry sycophantic opener opulence molybdenum allied
+    >>
+    >> backstop squad myrtle undulate quire commendably larboard pi contented parade standout overshoot annex
+    > entombment wheelbarrow eviction descant patrimony centenarian used racketeering establishment expansiveness
+    >
+    > ex manic-depressive wickedness abrogate good-hearted oceanographer cowhand bribery shipboard alley miscreant
+
+    crest dimension tails motion picture legitimacy ashore sigh provisions prominently vein imperialistic
+
+    > > hundredth and batik always jerky canopy silica supportable piccolo commercialize eighty clamor technical
+    > > mischievously millet bravo pottery descend dowdiness co-star pompom meddlesome postgraduate prime time
+    > traitor guileless pliers jokingly crocodile windmill precondition robin belligerent impetuosity magnanimity
+<SKIP>    stylishly anchorwoman dyed-in-the-wool export mailman domicile quizzical frill mountain enforcement
+
+ReST-Style Field Names
+======================
+
+    :abc: voyager turbot semimonthly interminably clever widen quarter horse landmark thoroughly allay trusty
+    sequoia concubine hard-line mangy rampage abysmal perfume muse carver prearrange ragout leaky police officer
+    :asdfasdf: overanxious bloom crept then lounge Wyo. thrasher vitreous serpent inflect fear fruit fly compactor
+        parcel post typewrote infinitely drumstick leeward mermaid jasmine enervate amalgam rigamarole Gen.
+
+ReST Directives
+===============
+<SKIP>.. data:: sample
+    darts up brag walk canoe grumbler unaccompanied comptroller gentleness laborer deflect unabridged generically
+    moth-eaten stupefaction epochal lithe enslave homogeneous quantity disability compute deplorable cadet
+<SKIP>.. data:: sample2
+  dissatisfied purgatory grammatically thither resign silencer assembler drifter cockiness birch baggage
